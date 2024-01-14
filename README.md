@@ -28,4 +28,4 @@ While this is just a way for us to put our step in the game, we have several ide
 ## Built With:
 figma, html, css, opencv, python, twilio
 
-![alt text](https://github.com/chaa-san/Snooze-Cruise/blob/main/images/Home.png?raw=true)  <img src="https://github.com/chaa-san/Snooze-Cruise/blob/main/images/Home.png" width="100" height="100">
+<img src="https://github.com/chaa-san/Snooze-Cruise/blob/main/images/Home.png" width="432" height="1068">
