@@ -1,0 +1,47 @@
+body {
+    animation: blinker 1s infinite;
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    height: 100vh; 
+}
+
+ @keyframes blinker {
+    0%, 100% {
+        background-color: #EE6C4D; 
+    }
+    50% {
+        background-color: #e0fbfc;
+    }
+}
+
+.options {
+    margin: 30px 50px;      
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background-color: #293241;
+    border-radius: 15px;
+    padding: 16px;
+    font-size: 2.0em;    
+    font-weight: 700;  
+    color: #e0fbfc;
+    line-height: 35px;
+    justify-content: center;
+}
+
+a:link, a:visited, a:active  {
+    color: #e0fbfc;
+}
+  
+a:link, a:visited {
+    text-decoration: none;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .blink-element {
+      width: 350px;
+      height: 350px;
+    }
+}
