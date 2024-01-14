@@ -29,3 +29,10 @@ While this is just a way for us to put our step in the game, we have several ide
 figma, html, css, opencv, python, twilio
 
 <img src="https://github.com/chaa-san/Snooze-Cruise/blob/main/images/Home.png" width="350" height=auto>
+
+
+## To run the python Code:
+Install  & import the following python libraries: opencv-python, dlib, imutils, scipy
+
+And execute the command from python code folder path:
+python DrowsinessDetection.py
