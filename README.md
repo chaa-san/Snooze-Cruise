@@ -1,5 +1,5 @@
 # Wake the BEEP UP!
-https://devpost.com/software/wake-the-beep-up?_gl=1*1t51oc3*_gcl_au*MTc1NjI3MDEyOC4xNzQzNDU4NzYx*_ga*OTcyODk4NDE5LjE3NDM0NTg3NjE.*_ga_0YHJK3Y10M*MTc0MzQ1ODc2MC4xLjEuMTc0MzQ1ODc2Ni4wLjAuMA..
+Winning the SheHacks + General Motor Challenge <a href="https://devpost.com/software/wake-the-beep-up?_gl=1*1t51oc3*_gcl_au*MTc1NjI3MDEyOC4xNzQzNDU4NzYx*_ga*OTcyODk4NDE5LjE3NDM0NTg3NjE.*_ga_0YHJK3Y10M*MTc0MzQ1ODc2MC4xLjEuMTc0MzQ1ODc2Ni4wLjAuMA">Devpost
 
 ## Inspiration
 Drowsy Driving is a significant factor in a huge proportion of road accidents globally
